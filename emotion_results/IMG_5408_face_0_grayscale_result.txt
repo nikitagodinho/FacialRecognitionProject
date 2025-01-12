@@ -1,0 +1,3 @@
+Image: IMG_5408_face_0_grayscale.jpg
+Dominant Emotion: happy
+Confidence: 98.71%

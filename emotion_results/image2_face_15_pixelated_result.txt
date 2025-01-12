@@ -1,0 +1,3 @@
+Image: image2_face_15_pixelated.jpg
+Dominant Emotion: neutral
+Confidence: 87.39%

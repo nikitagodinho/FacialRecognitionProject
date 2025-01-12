@@ -1,0 +1,3 @@
+Image: image3_face_0_pixelated.jpg
+Dominant Emotion: happy
+Confidence: 33.69%

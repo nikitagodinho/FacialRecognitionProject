@@ -1,0 +1,3 @@
+Image: image2_face_15_noisy.jpg
+Dominant Emotion: neutral
+Confidence: 97.14%

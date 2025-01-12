@@ -1,0 +1,3 @@
+Image: IMG_5411_face_0_pixelated.jpg
+Dominant Emotion: surprise
+Confidence: 73.32%

@@ -1,0 +1,3 @@
+Image: IMG_5411_face_0_grayscale.jpg
+Dominant Emotion: fear
+Confidence: 55.54%

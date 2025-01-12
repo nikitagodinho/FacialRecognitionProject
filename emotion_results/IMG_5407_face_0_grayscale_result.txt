@@ -1,0 +1,3 @@
+Image: IMG_5407_face_0_grayscale.jpg
+Dominant Emotion: neutral
+Confidence: 85.55%
